@@ -1,3 +1,5 @@
+; You can see a nice writeup comparing a Clojure Var to a C pointer here
+;     https://stackoverflow.com/questions/39550513/when-to-use-a-var-instead-of-a-function
 (ns tst.demo.var
   (:use tupelo.core tupelo.test))
 
@@ -56,6 +58,4 @@
       (+ 39 (unvar wilma-long))
       (+ 39 (unvar wilma-var)))
     ))
-
-
 
