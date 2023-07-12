@@ -3,10 +3,9 @@
 
 It is like a double-indirection of pointers in C.
 
-You can see a nice writeup comparing a Clojure Var to a C pointer here
-
-    https://stackoverflow.com/questions/39550513/when-to-use-a-var-instead-of-a-function
-
+You can see
+link:https://stackoverflow.com/questions/39550513/when-to-use-a-var-instead-of-a-function[a nice writeup on StackOverflow]
+comparing a Clojure Var to a C pointer.
 
 == License
 
